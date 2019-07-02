@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Locating A Place</string>
+
+    <string-array name="company">
+        <item>Overview</item>
+        <item>North-HQ</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
